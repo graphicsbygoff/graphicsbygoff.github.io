@@ -5,7 +5,8 @@ Steps to take:
 
 1. Download git (https://git-scm.com/download/win)
 2. Open up your terminal on your computer
-3. ```cd``` is a terminal command to change directories. ```cd``` into your desktop, whatever that route is, by doing ```cd /path/to/your/desktop```
+3. ```cd``` is a terminal command to change directories. ```cd``` into your desktop, whatever that route is, by doing 
+```cd /path/to/your/desktop```
 4. Type this command ```git clone https://github.com/graphicsbygoff/graphicsbygoff.github.io.git```
 5. Type ```cd graphicsbygoff.github.io```
 6. You're now in your codebase. Type ```atom .``` to open your code in your editor
